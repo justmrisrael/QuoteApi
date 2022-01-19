@@ -1,4 +1,4 @@
 # QuoteApi
 A simple API in NodeJS to display random quotes
 
-A backend practice project
+A backend practice project.
